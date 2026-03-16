@@ -2069,6 +2069,10 @@
 		(color 0 0 0 0)
 		(uuid "f11e8a2a-61a6-487c-ae89-3892b9d44ce6")
 	)
+	(no_connect
+		(at 68.58 166.37)
+		(uuid "dcdd3b39-6950-46d9-b8c6-1e9a94bed629")
+	)
 	(wire
 		(pts
 			(xy 60.96 147.32) (xy 60.96 158.75)
@@ -4039,7 +4043,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "SK6812 Mini-E:SK6812MINI-E_fixed"
 			(at 62.23 173.99 0)
 			(effects
 				(font
