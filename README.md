@@ -14,7 +14,8 @@ The goal was to create a small, efficient tool that speeds up repetitive tasks. 
 <img width="898" height="790" alt="Image" src="https://github.com/user-attachments/assets/60da6fb1-e9f7-48dc-a8df-2ca55ce07e94" />
 <img width="1590" height="648" alt="Image" src="https://github.com/user-attachments/assets/bd9572da-fe0b-4e5d-b888-b4ef54def05c" />
 
-#BOM
+**BOM**
+
 5x Cherry MX Switches
 
 1x EC11 Rotary encoder
