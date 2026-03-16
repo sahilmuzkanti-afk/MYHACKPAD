@@ -16,11 +16,20 @@ The goal was to create a small, efficient tool that speeds up repetitive tasks. 
 
 #BOM
 5x Cherry MX Switches
+
 1x EC11 Rotary encoder
+
 1x SK6812 MINI LED
+
 1x Seeed XIAO RP2040
+
 1x 0.91 inch OLED display
+
 5x Blank DSA Keycaps
+
 6x Through-hole 1n4148 Diodes
+
 4x M3x16 Screws
+
 4x M3 Heatset Inserts
+
