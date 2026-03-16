@@ -4,3 +4,4 @@ Each key is programmed to Do a specific shortcut command on the computer. The ro
 
 The goal was to create a small, efficient tool that speeds up repetitive tasks. Instead of remembering many shortcuts, everything is placed on dedicated keys
 
+<img width="752" height="658" alt="Image" src="https://github.com/user-attachments/assets/839b353e-9cb8-4886-866c-ea728cdcd52b" />
