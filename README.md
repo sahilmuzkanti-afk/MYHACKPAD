@@ -13,3 +13,14 @@ The goal was to create a small, efficient tool that speeds up repetitive tasks. 
 <img width="644" height="559" alt="Image" src="https://github.com/user-attachments/assets/20566dd3-bfb2-4301-a873-c38acdacc813" />
 <img width="898" height="790" alt="Image" src="https://github.com/user-attachments/assets/60da6fb1-e9f7-48dc-a8df-2ca55ce07e94" />
 <img width="1590" height="648" alt="Image" src="https://github.com/user-attachments/assets/bd9572da-fe0b-4e5d-b888-b4ef54def05c" />
+
+#BOM
+5x Cherry MX Switches
+1x EC11 Rotary encoder
+1x SK6812 MINI LED
+1x Seeed XIAO RP2040
+1x 0.91 inch OLED display
+5x Blank DSA Keycaps
+6x Through-hole 1n4148 Diodes
+4x M3x16 Screws
+4x M3 Heatset Inserts
